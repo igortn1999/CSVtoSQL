@@ -7,5 +7,5 @@ $ ./CSVtoSQL.sh YourCSVHere.csv SqlFileName
 
 The output will be a file called SqlFileName.sql
 
-IMPORTANT
-At the moment, all the data types fore every column will be a VARCHAR with sapce available for 250 characters
+IMPORTANT: 
+At the moment, all the data types fore every column will be a VARCHAR with space available for 250 characters
